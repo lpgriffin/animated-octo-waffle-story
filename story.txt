@@ -2,7 +2,7 @@ Once upon a time, in the magical land of Kingtoria, there was a beautiful prince
 guarded by a powerful dragon named Parthax. The king of Kingtoria, missing his daughter Jessica, tasked the brave Sir Robin 
 of Camelot to rescue her from her prison. While this was no small task, Sir Robin was up for the challenge. So he gathered up 
 a crew of bards and servants and headed to the forsaken castle to face Parthax. On the way, the bards sang many verses about
-Sir Robin's many conquests, 
+Sir Robin's many conquests: 
 "Bravely bold Sir Robin
 Rode forth from Camelot.
 He was not afraid to die,
