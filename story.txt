@@ -1,1 +1,7 @@
 Once upon a time, in the magical land of Kingtoria, there was a beautiful princess named Jessica locked up in a lonely castle, guarded by a powerful dragon named Parthax. The king of Kingtoria, missing his daughter Jessica, tasked the brave Sir Robin of Camelot to rescue her from her prison. While this was no small task, Sir Robin was up for the challenge. So he gathered up a crew of bards and servants and headed to the forsaken castle to face Parthax. On the way, the bards sang verses about Sir Robin's many conquests.  This conquest however would be his greatest triumph yet should he suceed.
+
+Dutifully, Sir Robin and his entourage traveled the land. Enduring hunger, sickness, and even boredom,
+they finally reached the castle. There, they faced the formidable Parthax. He taunted them upon their 
+arrival, insisting that there was no way they could possibly get past him. Sir Robin, however, was a
+clever knight, and sought not to best the beast by means of physical prowess but rather by mental
+capabilities. Accordingly, he offered a riddle to the dragon in exchange for safe entrance...
